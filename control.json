@@ -1,5 +1,5 @@
 {
-  "status": "off",
-  "maintenance": false,
+  "status": "on",
+  "maintenance": true,
   "message": "We are under maintenance, please try again later."
 }
